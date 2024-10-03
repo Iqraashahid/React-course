@@ -199,3 +199,18 @@ import {useState} from "react";
       // };
   
       // export default App;
+                          // epsiode 5 has done in projects repo
+                     
+
+                    //  episode 6(life cycle of component)
+function App(){
+
+  return(
+    <div className="App">
+
+    </div>
+  )
+
+};
+export default App;
+
