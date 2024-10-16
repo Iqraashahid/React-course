@@ -5,6 +5,7 @@ return(
     <Link to ="/">Home </Link>
     <Link to ="/Menu">Menu </Link>
     <Link to ="/Contact">Contact</Link>
+   
   </div>
 );
     }
